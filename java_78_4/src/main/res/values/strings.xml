@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jky_78_4</string>
+    <array name="calsses">
+        <item>java1</item>
+        <item>java2</item>
+        <item>java3</item>
+        <item>java4</item>
+    </array>
+</resources>

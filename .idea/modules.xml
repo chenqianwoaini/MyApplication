@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application2/application2.iml" filepath="$PROJECT_DIR$/application2/application2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application3/application3.iml" filepath="$PROJECT_DIR$/application3/application3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_78_4/java_78_4.iml" filepath="$PROJECT_DIR$/java_78_4/java_78_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_78_4_1/java_78_4_1.iml" filepath="$PROJECT_DIR$/java_78_4_1/java_78_4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_78_4_2/java_78_4_2.iml" filepath="$PROJECT_DIR$/java_78_4_2/java_78_4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myandroid_5/myandroid_5.iml" filepath="$PROJECT_DIR$/myandroid_5/myandroid_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myandroid_5_life/myandroid_5_life.iml" filepath="$PROJECT_DIR$/myandroid_5_life/myandroid_5_life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myandroid_6/myandroid_6.iml" filepath="$PROJECT_DIR$/myandroid_6/myandroid_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygithub/mygithub.iml" filepath="$PROJECT_DIR$/mygithub/mygithub.iml" />
+    </modules>
+  </component>
+</project>

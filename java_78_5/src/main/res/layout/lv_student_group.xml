@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_contentwrap_contentwrap_content">
+
+    <TextView
+        android:background="@android:color/holo_blue_bright"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:text="第一组"
+        android:id="@+id/tv_groupname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

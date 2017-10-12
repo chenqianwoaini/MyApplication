@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorHei"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="微信"
+            android:textColor="@color/colorBai"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="220dp"
+            android:src="@drawable/suos"
+            />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/jias" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="470dp"
+    android:orientation="vertical">
+    <GridView
+        android:id="@+id/lv_info"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </GridView>
+</LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+       <ImageView
+           android:src="@drawable/ffff"
+           android:layout_width="0dp"
+           android:layout_weight="4"
+           android:layout_height="wrap_content" />
+       <ImageView
+           android:src="@drawable/aaaa"
+           android:layout_width="0dp"
+           android:layout_weight="4"
+           android:layout_height="wrap_content" />
+       <ImageView
+           android:src="@drawable/sss"
+           android:layout_width="0dp"
+           android:layout_weight="4"
+           android:layout_height="wrap_content" />
+       <ImageView
+           android:src="@drawable/dddd"
+           android:layout_width="0dp"
+           android:layout_weight="4"
+           android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
